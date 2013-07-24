@@ -1,9 +1,9 @@
 rark
 ====
 
-A **R**acket language inspired by **ar**c, by **k**ogir.
+A **R**acket language inspired by **Ar**c, by **k**ogir.
 
-This is my plaything. It's not the future of arc, and in its current form shouldn't even be considered an arc fork. Think of it as an alternate, incomplete and incompatile arc-inspired language.
+This is my plaything, nothing more. In its current form it shouldn't even be considered an Arc fork.
 
 Clone and in the package directory:
 
